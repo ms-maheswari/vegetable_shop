@@ -38,12 +38,12 @@ const Appbar = () => {
         <div className={`flex md:block justify-end ${open ? "block" : "hidden"}`}>
           <ul className="md:flex md:space-x-8 space-y-8 md:space-y-0">
             <li className=" menu">
-              <a href="#" className="font-body">
+              <a href="https://fruitshop-inky.vercel.app/" className="font-body">
                 Fruits
               </a>
             </li>
             <li className="menu border-b-4">
-              <a href="#" className="font-body">
+              <a href="https://vegetable-shop-rust.vercel.app/" className="font-body">
                 Vegetables
               </a>
             </li>
