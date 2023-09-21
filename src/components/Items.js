@@ -6,37 +6,37 @@ const Items = () => {
         {
           id: 1,
           image: '1',
-          name: 'Green Grapes',
+          name: 'Carrot',
           price: 100
         },
         {
           id: 2,
           image: '2',
-          name: 'Pomegranate',
+          name: 'Tomoto',
           price: 200
         },
         {
           id: 3,
           image: '3',
-          name: 'Black Grapes',
+          name: 'Brinjal',
           price: 250
         },
         {
           id: 4,
           image: '4',
-          name: 'Grape Fruit',
+          name: 'Beans',
           price: 300
         },
         {
           id: 5,
           image: '5',
-          name: 'Berry',
+          name: 'Onion',
           price: 250
         },
         {
           id: 6,
           image: '6',
-          name: 'lemon',
+          name: 'Potato',
           price: 150
         }
       ])

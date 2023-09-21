@@ -13,7 +13,7 @@ const Appbar = () => {
       <div className="md:flex justify-between w-5/6 md:max-w-7xl mx-auto">
         <div className="flex justify-between">
           <div>
-            <span className=" text-green-500 font-bold text-4xl">Fruit </span>
+            <span className=" text-green-500 font-bold text-4xl">Vegetables </span>
             <span className="text-slate-500 font-thin text-3xl">Shop</span>
           </div>
           <div className="md:hidden mt-2">
@@ -37,12 +37,12 @@ const Appbar = () => {
         </div>
         <div className={`flex md:block justify-end ${open ? "block" : "hidden"}`}>
           <ul className="md:flex md:space-x-8 space-y-8 md:space-y-0">
-            <li className=" menu border-b-4">
+            <li className=" menu">
               <a href="#" className="font-body">
                 Fruits
               </a>
             </li>
-            <li className="menu">
+            <li className="menu border-b-4">
               <a href="#" className="font-body">
                 Vegetables
               </a>

@@ -7,19 +7,19 @@ const SeasonSpecials = () => {
     {
       id: 7,
       image: "7",
-      name: "Orange",
+      name: "Beetroot",
       price: 100,
     },
     {
       id: 1,
       image: "1",
-      name: "Green Grapes",
+      name: "Carrot",
       price: 100,
     },
     {
       id: 6,
       image: "6",
-      name: "lemon",
+      name: "Potato",
       price: 150,
     },
   ]);
